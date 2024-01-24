@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1617909919 source:d:\projects\computer_graphics\rural_village\main.cpp
+	<cstdio>
+	<GL/gl.h>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+	<windows.h>
+
+1526093414 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1453865572 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1526093414 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
