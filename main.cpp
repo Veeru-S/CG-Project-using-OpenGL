@@ -5,12 +5,6 @@
 #include <math.h>
 #include <windows.h>
 using namespace std;
-/*
-17-34753-2	Hasan, Md Hasibul
-17-34833-2	Mondol Dipto
-17-34643-2	Tithi Ghosh
-17-34717-2	Ferdous, Jannatul
-*/
 
 int sunstatus=0,cloudstatus=1,waterstatus=1,cyclestatus=1,human2status=1,rainstatus=0,birdstatus=1,start=0;
 float sunX=0,sunY=0,cloudX=0,cloudY=0,waterX=0,waterY=0,cycleX=0,cycleY=0,humanX=0,humanY=0,rainX=0,rainY=0,birdsX=0,birdsY=0;
